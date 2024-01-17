@@ -594,7 +594,14 @@ input {
   font-size: 16px;
   font-weight: 400;
 }
-
+.input-fother{
+  width: 474px;
+}
+.hrp{
+  width: 375px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
 .input {
   border: none;
   width: 393px;
@@ -841,7 +848,9 @@ hr {
   .newsletter-input {
     width: 100%;
   }
-
+  #Subscribe{
+    width: 75%;
+  }
   /* Place section comments  */
   .place {
     flex-direction: column;
@@ -854,5 +863,7 @@ hr {
   .place-img {
     width: 100%;
   }
-
+  .horoizental{
+width: 100%;
+  }
 }
