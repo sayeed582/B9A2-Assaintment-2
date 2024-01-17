@@ -848,8 +848,16 @@ hr {
   .newsletter-input {
     width: 100%;
   }
-  #Subscribe{
+.hrp{
+  width: 65%;
+  margin-right: 100px;
+}
+  .input{
     width: 75%;
+  }
+
+  #Subscribe{
+    width: 65%;
   }
   /* Place section comments  */
   .place {
